@@ -1,5 +1,5 @@
 library("BOIN")
-setwd("C:/Users/katie.wang/OneDrive - Karyopharm Therapeutics/Documents/BOIN")
+setwd("C:/Users/katie.wang/OneDrive")
 
 
 ################Get Boundary table format###############
